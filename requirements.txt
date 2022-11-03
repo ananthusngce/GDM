@@ -1,0 +1,12 @@
+Flask
+pandas
+requests
+Flask-RESTful
+scikit-learn
+scipy
+simplejson
+joblib
+numpy
+gunicorn
+xgboost
+
